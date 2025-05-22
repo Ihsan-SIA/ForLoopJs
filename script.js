@@ -12,4 +12,4 @@ let student = {
     nationality: 'Portugal',
     status: "GOAT",
 }
-console.log(student['name'])
+console.log(student['name']);
