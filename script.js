@@ -12,6 +12,7 @@ let student = {
     nationality: 'Portugal',
     status: "GOAT",
     innerText: '',
-    innerHTML: 
+    innerHTML: '',
+    textContent: ''
 }
 console.log(student['name']);
