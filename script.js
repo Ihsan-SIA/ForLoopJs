@@ -9,6 +9,8 @@ console.log(document.querySelector('#newButton'));
 console.log(document.querySelectorAll('p'));
 let student = {
     name: "Ronaldo",
+    nationality: 'Portugal',
+    status: "GOAT",
     
 
 }
