@@ -7,6 +7,7 @@ console.log(document.getElementById);
 console.log(document.getElementById('oldButton'));
 console.log(document.querySelector('#newButton'));
 console.log(document.querySelectorAll('p'));
+console.log(document.querySelector(p).innerText)
 let student = {
     name: "Ronaldo",
     nationality: 'Portugal',
