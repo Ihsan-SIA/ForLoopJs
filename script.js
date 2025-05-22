@@ -7,7 +7,7 @@ console.log(document.getElementById);
 console.log(document.getElementById('oldButton'));
 console.log(document.querySelector('#newButton'));
 console.log(document.querySelectorAll('p'));
-console.log(document.getElementsByClassName('text').innerText)
+console.log(document.getElementsById('oldButton').innerText)
 let student = {
     name: "Ronaldo",
     nationality: 'Portugal',
@@ -16,4 +16,3 @@ let student = {
     innerHTML: '',
     textContent: ''
 }
-console.log(student['name']);
