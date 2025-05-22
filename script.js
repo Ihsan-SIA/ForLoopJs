@@ -7,4 +7,4 @@ console.log(document.getElementById);
 console.log(document.getElementById('oldButton'));
 console.log(document.querySelector('#newButton'));
 console.log(document.querySelectorAll('p'));
-let student = {name: "James Bond"}
+let student = {name: "James Bond", email:}
