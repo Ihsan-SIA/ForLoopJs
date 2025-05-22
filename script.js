@@ -11,6 +11,5 @@ let student = {
     name: "Ronaldo",
     nationality: 'Portugal',
     status: "GOAT",
-    
-
 }
+console.log(student['name'])
