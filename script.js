@@ -11,5 +11,7 @@ let student = {
     name: "Ronaldo",
     nationality: 'Portugal',
     status: "GOAT",
+    innerText: '',
+    innerHTML: 
 }
 console.log(student['name']);
