@@ -10,4 +10,5 @@ console.log(document.getElementById('newButton').textContent);
 console.log(document.querySelector('#newButton'))
 console.log("Paragraph below");
 console.log(document.getElementsByClassName('parent')[0].innerText);
-console.log(document.getElementsByClassName('jollof')[2].innerHTML)
+console.log(document.getElementsByClassName('jollof')[2].innerHTML);
+console.log(document.querySelector('li').innerHTML)
